@@ -1,0 +1,93 @@
+.padre{
+    background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%);
+    width: 250px;
+}
+.header{
+display: flex;
+width: 250px;
+height: 45px;
+align-items: center ;
+padding-top: 5px;
+}
+
+.imgescudo{
+    width: 35px;
+    height: 35px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.centro{
+line-height: 1px;
+height: 50px;
+}
+
+.rd{
+    font-size: 13.5px;
+}
+.juntac{
+    font-size: 12px;
+}
+
+.cedula{
+    font-size: 8px;
+}
+
+
+.container{
+    display: flex;
+    width: 250px;
+    height: 130px;
+  
+}
+
+.imglenin{
+    width: 75px;
+    height: 115px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 8px;
+
+}
+
+.informacion{
+    height: 200px;
+    line-height: 1px;
+}
+.numeroCedula{
+    font-size: 20px;
+}
+
+.pregunta{
+    font-size: 5px;
+}
+.respuesta{
+    font-size: 9px;
+    font-weight: bold;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 250px;
+    height: 30px;
+    margin-top: 2px;
+}
+.nombre{
+    font-size: 12px;
+    font-weight: bold;
+    width: 125px;
+    padding-right: 30px;
+}
+
+.icons, a{
+    width: 15px;
+    height: 15px;
+    text-decoration:none;
+    /* padding-right: 10px; */
+}
+
+
+.stevenVideo{
+    height: 350px;
+    width: 250px;
+}
